@@ -1,4 +1,4 @@
-# ADXXXXX- よくある質問
+# ADRSADC Raspberry Pi用Arduinoシールド変換基板
 <!-- //コメント
 ---
 
