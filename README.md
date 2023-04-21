@@ -9,4 +9,6 @@
 
 ### [Q&A](FAQ.md)
 
-### [回路図](https://github.com/bit-trade-one/-ADXXXXX-Templateo/blob/master/Schematics/-ADXXXXX-Template-Schematics.pdf)
+## 回路図[[詳細]](https://github.com/bit-trade-one/ADRSADC/tree/master/Schematics)
+![image](https://user-images.githubusercontent.com/85532743/233540440-4f8d9cbe-84e7-4e52-a212-b357e64cd094.png)
+
